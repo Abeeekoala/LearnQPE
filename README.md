@@ -6,6 +6,8 @@
 
 Member : Chu-Hsuan Lin and Chris L
 
+## 2024 Update:
+This project has been further developed and accepted at IEEE International Joint Conference on Neural Networks (IJCNN) 2024; details on [IEEExplore](https://ieeexplore.ieee.org/document/10651206)
 ## Project description 
 Presentation file can be found [here](LearnQPE_presentation.pdf).  
 
